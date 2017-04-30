@@ -1,4 +1,4 @@
-// An example configuration file.
+// An example configuration file.//
 exports.config = {
   directConnect: true,
   
